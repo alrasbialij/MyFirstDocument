@@ -1,2 +1,2 @@
 # MyFirstDocument
-My first document fo Coursera
+My first document fo Coursera training
